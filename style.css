@@ -33,14 +33,14 @@ button{
      line-height: 40px;
 }
 #increment-btn {
-    background-color: darkred;
-    color:;
+    background-color:rgb(47, 241, 255);
+    color:black;
     margin:20px;
 
 }
 
 #save-btn {
-    background-color: white;
+    background-color: rgb(47, 241, 255);
     color: black;
     margin: 20px;
 
