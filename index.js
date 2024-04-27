@@ -3,7 +3,7 @@ function Increment(){
     x=x+1;
     document.getElementById("count-el").innerText= x;
 }
-function save()
+function Save()
 {
     document.getElementById("enteries").textContent += x + " - ";
     document.getElementById("count-el").textContent=0;
