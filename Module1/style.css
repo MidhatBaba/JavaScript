@@ -1,7 +1,9 @@
 body{
     margin:0;
-    background-image: url(backgroundd.jpeg);
+    background-image: url(https://i.pinimg.com/474x/b4/66/44/b466448408074c240ab6b2bc6e3099b3.jpg);
     background-size:cover;
+    width: 100%;
+    background-position: center left;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: 400;
     text-align: center;
@@ -33,14 +35,14 @@ button{
      line-height: 40px;
 }
 #increment-btn {
-    background-color:rgb(47, 241, 255);
+    background-color:rgba(255, 134, 47, 0.71);
     color:black;
     margin:20px;
 
 }
 
 #save-btn {
-    background-color: rgb(47, 241, 255);
+    background-color: rgba(255, 134, 47, 0.71);
     color: black;
     margin: 20px;
 
