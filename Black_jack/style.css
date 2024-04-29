@@ -52,4 +52,23 @@ p
     padding-top: 5px;
     padding-bottom: 5px;
     margin-top: 30px;
+    margin-bottom: 10px;
+    
 }
+#new-btn{
+    display:block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+    color: black;
+    background-color: bisque;
+    border:3px solid  black;
+    border-radius: 10px;
+    line-height: 2rem;
+    width: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 430px;
+}
+
+

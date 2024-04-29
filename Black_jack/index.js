@@ -5,6 +5,11 @@ let hasBlackJack = false
 let isAlive = true
 let message = ""
 
+function newCard()
+{
+
+}
+
 
 function startGame()
 {
@@ -21,9 +26,10 @@ else if (sum === 21)
 }
 document.getElementById("message-el").textContent= message
 // document.getElementById("sum-el").textContent= "Sum :" +" " + sum to retrieve an id, use getElementById
-
 //mainly used for retreiving a class or a tag
 document.querySelector(".sum-el").textContent= "Sum :" +" " + sum
+document.querySelector(".card-el").textContent= "Cards :" + card_1 +" " +card_2
+
 
 
 
