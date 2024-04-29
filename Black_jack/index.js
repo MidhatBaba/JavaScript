@@ -1,5 +1,5 @@
 let card_1 = 10
-let card_2 = 1
+let card_2 = 11
 let sum = card_1 + card_2
 let hasBlackJack = false
 let isAlive = true
@@ -20,4 +20,8 @@ else if (sum === 21)
     isAlive = false
 }
 document.getElementById("message-el").textContent= message
+// document.getElementById("sum-el").textContent= "Sum :" +" " + sum to retrieve an id, use getElementById
+
+document.querySelector("#sum-el").textContent= "Sum :" +" " + sum
+
 }
