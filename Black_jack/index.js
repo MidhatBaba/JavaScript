@@ -22,6 +22,9 @@ else if (sum === 21)
 document.getElementById("message-el").textContent= message
 // document.getElementById("sum-el").textContent= "Sum :" +" " + sum to retrieve an id, use getElementById
 
-document.querySelector("#sum-el").textContent= "Sum :" +" " + sum
+//mainly used for retreiving a class or a tag
+document.querySelector(".sum-el").textContent= "Sum :" +" " + sum
+
+
 
 }
