@@ -20,14 +20,16 @@ h1
    
 }
 
-#message
+#message-el
 {
     
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding-bottom: 300px;
+    padding-bottom: 30px;
     font-size: 30px;
     font-weight: 350;
     line-height: 2rem;
+    color: white;
+    
 }
 p
 {
